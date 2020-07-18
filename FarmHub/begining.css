@@ -1,0 +1,59 @@
+body{
+	overflow: auto;
+}
+}
+#dutch{
+  margin: 5px 15px 10px 0;
+}
+#cool{
+	font-size: 40px;
+}
+.navbar-brand>span{
+  vertical-align: middle;
+}
+.carousel-caption{	
+	top:50%;
+	transform: translateY(-70%);
+	bottom: initial;
+}
+.btn-lg {
+    padding: 10px 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+footer{
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+  overflow: auto;
+}
+footer hr{
+  border-color: #d5d5d5;
+  width: 75%;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+} 
+.copy{
+  padding: 0;
+  margin: 0;
+}
+.form-inline>.btn{
+     margin-right: 5px;
+}
+.card{
+	margin-top: 10px;
+}
+.fa-shopping-cart{
+  color: green;
+  font-size: 250%;
+  margin: 1rem;
+}
+.card .fa-shopping-cart{
+  color: green;
+  font-size: 130%;
+  margin:0px;
+}
+
+
